@@ -1,5 +1,7 @@
 <p align="center">
   <h1 align="center">AngularFire2</h1>
+  
+  <h2 align="center" > legacy build for BODY OF THE SON </h2>
   <p align="center">The official library for Firebase and Angular 2</p>
 </p>
 
